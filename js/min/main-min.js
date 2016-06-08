@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".menu").click(function(n){n.stopPropagation(),$("#main_nav").toggleClass("active")})});
